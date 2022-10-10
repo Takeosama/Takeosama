@@ -36,3 +36,4 @@ Descargarem la ultima versió de Owncloud i mourem l'arxiu. Seguidament cambiaar
 
 ### 6- Configuració de Apache
 
+![capt](ConfigAp-1.png) 
