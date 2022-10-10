@@ -35,5 +35,6 @@ Descargarem la ultima versió de Owncloud i mourem l'arxiu. Seguidament cambiaar
 
 
 ### 6- Configuració de Apache
+Crearem un nano al seguent arxiu per poder configurar-lo
 
-![capt](ConfigAp-1.png) 
+![capt](apacheconf.png) 
