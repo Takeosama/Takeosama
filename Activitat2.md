@@ -30,10 +30,10 @@ Instalarem PHP amb els moduls necesaris i tenin en compte els requisits minims p
 ### 5- Owncloud
 Descargarem la ultima versió de Owncloud i mourem l'arxiu. Seguidament cambiaarem el propietari i els permisos dels directoris de Owncloud per que els puge utilitzar Apache2.
 
-![capt](Owncloud-1.png)      ![capt](Owncloud-2.png)    ![capt](Owncloud-3.png)
+![capt](Owncloud-1.png)      ![capt](owncloud-2.png)    ![capt](owncloud-3.png)
 
 
 
 ### 6- Configuració de Apache
 
-![capt](ConfigAp-1)
+![capt](ConfigAp-1.png)
