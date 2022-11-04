@@ -16,18 +16,19 @@
 
 4.4.- Podem crear fitxers d'una mida determinada a Linux amb la comanda:
 
-truncate -s 10M file.txt.
+ Amb la comanda (truncate -s 10M file.txt.)
 
 ![Captura de pantalla de 2022-11-03 19-13-41](https://user-images.githubusercontent.com/114423044/200005401-8ba9fa4b-478c-46ff-8694-18769c752390.png)
 
 
 4.5.- Mostra el missatge d'error per haver superat la quota d'usuari.
 
+![Captura de pantalla de 2022-11-04 16-34-55](https://user-images.githubusercontent.com/114423044/200022387-1060d16c-e11a-49d6-b72c-734725bc39f3.png)
 
 
 4.6.- Busca al teu perfil quin percentatge de quota estas utilitzant.
 
-
+file:///home/alumne/Imatges/Captures%20de%20pantalla/Captura%20de%20pantalla%20de%202022-11-04%2017-20-55.png
 
 4.7.- Canvia la quota de l'usuari a 1GB i mostra tots els fitxers pujats.
 
