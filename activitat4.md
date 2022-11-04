@@ -34,6 +34,10 @@
 
 4.7.- Canvia la quota de l'usuari a 1GB i mostra tots els fitxers pujats.
 
+![Captura de pantalla de 2022-11-04 17-33-14](https://user-images.githubusercontent.com/114423044/200027934-7ed330b3-4871-4e65-b52b-35f981df5db1.png)
+
+
+![Captura de pantalla de 2022-11-04 17-33-27](https://user-images.githubusercontent.com/114423044/200027963-24aefef2-5c31-4a52-a857-f00fa70902df.png)
 
 
 4.8.- Crea un usuari anomenat usuari2XYZ i fical al grup usuaris.
