@@ -23,12 +23,14 @@
 
 4.5.- Mostra el missatge d'error per haver superat la quota d'usuari.
 
-![Captura de pantalla de 2022-11-04 16-34-55](https://user-images.githubusercontent.com/114423044/200022387-1060d16c-e11a-49d6-b72c-734725bc39f3.png)
+![Captura de pantalla de 2022-11-04 16-30-40](https://user-images.githubusercontent.com/114423044/200026145-0fc153cf-4a2e-4c9e-ac73-d07f7db1d545.png)
+
 
 
 4.6.- Busca al teu perfil quin percentatge de quota estas utilitzant.
 
-file:///home/alumne/Imatges/Captures%20de%20pantalla/Captura%20de%20pantalla%20de%202022-11-04%2017-20-55.png
+![Captura de pantalla de 2022-11-04 16-34-55](https://user-images.githubusercontent.com/114423044/200025542-425b448c-f9f4-4ab0-8159-881193d22d0b.png)
+
 
 4.7.- Canvia la quota de l'usuari a 1GB i mostra tots els fitxers pujats.
 
