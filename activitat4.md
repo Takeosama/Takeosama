@@ -79,3 +79,4 @@
 
 4.14.- Crearem una carpeta nova per emmagatzematge a Owncloud, la carpeta serà /media/publicXYZ on XYZ són les teves inicials i apareixerà amb el nom de public als usuaris.
 
+![Captura de pantalla de 2022-11-04 19-46-58](https://user-images.githubusercontent.com/114423044/200052312-8eae1ec7-21f1-450b-b8c5-0bb868ec8815.png)
