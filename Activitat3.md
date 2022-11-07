@@ -49,18 +49,19 @@
 
 - Es poden veure videos en Streaming directament des de Owncloud?
 
--- Sí, podem veure videos en streaming a les dos tipos de llicencies d'Owncloud
+-- Podem veure videos en streaming a les dos tipos de llicencies d'Owncloud
 
 - Es poden connectar directoris de Google Drive a Owncloud?
 
---
+-- Podem connectar directoris de Google Drive 
 
 - I Dropbox?
 
+-- Podem connectar directoris de Dropbox
 
 - Compta Owncloud amb antivirus? En cas afirmatiu com es diu?
 
---
+-- No té cap antivirus però es pot instalar posteriorment.
 
 
 ### 3.4
@@ -69,11 +70,8 @@
 
 - Posa't una imatge d'usuari.
 
-
 - Afegeix el teu mail de l'Institut.
 
-
 - Canvia l'idioma a català.
-
 
 - Mostra la versió d'Owncloud instal·lada.
