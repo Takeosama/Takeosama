@@ -75,3 +75,6 @@
 - Canvia l'idioma a català.
 
 - Mostra la versió d'Owncloud instal·lada.
+
+![image](https://user-images.githubusercontent.com/114423044/200297193-74ae8893-d4e5-444c-a64e-e512eab1b7f6.png)
+
